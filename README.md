@@ -9,12 +9,9 @@ architecture | results
 
 ### Code
  * Under face/ and mnist/
- * model.py
-  * Definition of DCGAN model
- * train.py
-  * Training the DCGAN model (and Generating samples time to time)
- * util.py
-  * Image related utils 
+ * Definition of DCGAN model -> model.py
+ * Training the DCGAN model (and Generating samples time to time) -> train.py
+ * Image related utils -> util.py
  
 ### Dataset
  * MNIST
